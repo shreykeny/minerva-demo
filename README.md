@@ -13,6 +13,7 @@ You can make a PR on this repo, I'll merge it and that way you can try the Miner
 
 ## Sponsor this repo on this link : https://minerva-os.netlify.app/sponsor/357540252
 
+
 If you are a repo owner / maintainer and want to reward
 
-Your Contract Address is : 0x66A56646C3563F5514D5130686e10fD31C6f81CA & Your sponsor URL is https://minerva-os.netlify.app/sponsor/357540252
+Your Contract Address is : 0x309b5FF35bFAC3Fb5CA73E19e19411AA16842036 & Your sponsor URL is https://minerva-os.netlify.app/sponsor/357540252
