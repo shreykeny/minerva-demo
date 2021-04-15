@@ -1,6 +1,8 @@
 # minerva-demo
 
-## <a href="https://minerva-os.netlify.app/sponsor/357540252"> Sponsor </a>
+### <a href="https://minerva-os.netlify.app/sponsor/357540252"> Sponsor This Repo here </a>
+
+# Intro
 
 This is a demo repo for the Minerva platform : https://minerva-os.netlify.app/
 
@@ -17,7 +19,4 @@ If you are a contributor :
 
 ## Sponsor this repo on this link : https://minerva-os.netlify.app/sponsor/357540252
 
-
-NEWEST : Your Contract Address is : 0x00d0F6d5dB50A28a7F859bde23358125948Cf1f3 & Your sponsor URL is
-
-Test
+The Contract Address is : 0x00d0F6d5dB50A28a7F859bde23358125948Cf1f3 & the network is Kovan. You can see all transactions on <a href="https://kovan.etherscan.io/address/0x00d0F6d5dB50A28a7F859bde23358125948Cf1f3"> Etherscan </a>
